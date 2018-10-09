@@ -134,7 +134,7 @@ function _implements()
 }
 
 /**
- * Not the best one realisation of stack
+ * the best one realisation of stack
  * Push - set param to array of values
  * Pop  - set param to boolean
  * Get last (without pop) - no params
